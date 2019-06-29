@@ -1,0 +1,15 @@
+ public void GPS()
+    {
+
+    }
+
+
+    private void ekle(String s)
+    {
+        FirebaseDatabase database;
+        database = FirebaseDatabase.getInstance();
+        DatabaseReference dbRef = database.getReference("Reklam");
+        String Key  = dbRef.push().getKey();
+        DatabaseReference dbRefYeni = database.getReference("Reklam/"+Key);
+        dbRef.setValue(s);
+    }

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Akıllı Reklam Uygulaması </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class= "brand"> VERİ EKLEME</h1>
+        <div class="wrapper">
+            <div class="company-info">
+
+            </div>
+            <div class="contact">
+                <form id = "contactForm">
+                    <p>
+                        <label>Firma Adi :</label>
+                        <input type = "text" name = "Firma Adi" id="name">
+                    </p>
+                    <p>
+                        <label>Firma Enlem :</label>
+                        <input type = "text" name = "Firma Lokasyon" id="locationLatitude">
+                    </p>
+                    <p>
+                        <label>Firma Boylam :</label>
+                        <input type = "text" name = "Firma Lokasyon" id="locationLangitude">
+                    </p>
+                    <p>
+                        <label>Kampanya Süresi :</label>
+                        <input type = "text" name = "Kampanya Süresi" id="time">
+                    </p>
+                    <p>
+                        <label>Kampanya Kategori :</label>
+                        <input type = "text" name = "Kampanya Kategori" id="kategori">
+                    </p>
+                    <p class = "full">
+                            <label>Kampanya İcerik :</label>
+                            <textarea name= "kampanya icerik" rows="5" id="details"></textarea>
+                    </p>
+                    <p class = "full">
+                        <button type="submit">KAMPANYA EKLE</button>
+                    </p>
+
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <script src="https://www.gstatic.com/firebasejs/3.1.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/3.1.0/firebase-database.js"></script>
+    <script src="main.js"></script>
+</body>
+
+</html>

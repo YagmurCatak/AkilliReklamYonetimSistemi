@@ -1,0 +1,23 @@
+GPS;
+https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-301/androidde-konum-servisleri
+https://www.androidauthority.com/create-a-gps-tracking-application-with-firebase-realtime-databse-844343/
+https://www.youtube.com/watch?v=xnClFlrJfeM
+https://webinyo.com/androidde-location-kullanarak-yer-tespit-etme.html
+
+spinner kullanimi ;
+http://kod5.org/android-spinner-kullanimi/
+
+Veritabani;
+https://www.youtube.com/watch?v=VKp4f_6VyMk
+https://arifekubra.wordpress.com/2017/08/01/firebase-de-veritabani-olusturma-ve-android-uzerinden-okuma-yazma-islemleri/
+
+notification;
+https://medium.com/@yucelterlemezuglu/firebase-kullanarak-androidde-basit-bir-mesajla%C5%9Fma-uygulamas%C4%B1-olu%C5%9Fturma-2f9f1e1f30f2
+
+mesafe hesabi ;
+http://tugbaustundag.com/gps-ile-en-yakin-noktalari-bulma-android-location-services-ve-google-maps-service-api/
+
+api;
+https://stackoverflow.com/questions/38248723/firebase-database-is-not-a-function
+https://www.youtube.com/watch?v=Sb5qOa3R4hY
+https://www.youtube.com/watch?v=PP4Tr0l08NE&t=1117s
